@@ -42,7 +42,7 @@ nav ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 700px;
+    width: 47em;
 }
 nav ul li{
      margin-left:15px; 
